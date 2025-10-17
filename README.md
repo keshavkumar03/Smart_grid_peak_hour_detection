@@ -44,7 +44,7 @@ This system combines:
 ---
 
 ## 📦 Project Structure
-.
+```
 ├── hardware/
 │ └── arduino.c # Arduino code for sensor reading & relay control
 ├── esp/
@@ -59,7 +59,7 @@ This system combines:
 | └── analysis.ipynb # data cleaning and analysis of the dataset
 | └── dockerfile # deploying the model as API in azure
 └── README.md
-
+```
 
 ---
 
