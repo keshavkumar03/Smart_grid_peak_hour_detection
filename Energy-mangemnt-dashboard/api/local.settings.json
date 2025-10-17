@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "COSMOS_ENDPOINT": "https://energy-management-db.documents.azure.com:443/",
+    "COSMOS_KEY": "tNPyP1YBYQVaWJxewkA7JNeAL5TqakVGEB1ApLdrStoURrcaKggpvmg2xCE93PUmpA2ObaAz4uEHACDbHzPlKw==",
+    "JWT_SECRET": "b74F9dC8a1e3650292b8d4e755a631f248c907a35e1d628a9a3b1c760e52947",
+    "WEBSITE_NODE_DEFAULT_VERSION": "~18",
+    "SCM_DO_BUILD_DURING_DEPLOYMENT": "true",
+    "AzureSignalRConnectionString": "Endpoint=https://energy-managment.service.signalr.net;AccessKey=5EZRmOJEFqH3WtQi67bkr9v3tc7fLjSqfHviiut9OomShf23zKGwJQQJ99BCACL93NaXJ3w3AAAAASRSyCZ7;Version=1.0;"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}
