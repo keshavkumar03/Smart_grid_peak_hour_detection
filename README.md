@@ -44,7 +44,7 @@ This system combines:
 ---
 
 ## 📦 Project Structure
-
+.
 ├── hardware/
 │ └── arduino.c # Arduino code for sensor reading & relay control
 ├── esp/
